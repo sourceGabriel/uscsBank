@@ -1,6 +1,6 @@
 # USCS/Itaú Project
 <p align="center">
-<img alt="CaseItau" src="https://github.com/Lucas19932020/Itau_Repository/blob/master/Images/Ita%C3%BA%20image.PNG" width="400" />
+<img alt="CaseItau" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itau.com.br%2F&psig=AOvVaw2xtxa1i0CyZH8kTNOOfn5W&ust=1599017677450000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjQkpeDx-sCFQAAAAAdAAAAABAJ" width="400" />
 </p>
 
 Used technologies in the project:
@@ -34,7 +34,7 @@ Desenho da solução.pptx
 **1. Clone the repository**
 
 ```bash
-https://github.com/Lucas19932020/Itau_Repository
+https://github.com/sourceGabriel/uscsBank
 ```
 
 **2. Install Docker**
