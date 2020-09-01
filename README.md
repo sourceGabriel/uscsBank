@@ -1,6 +1,6 @@
 # USCS/Itaú Project
 <p align="center">
-<img alt="CaseItau" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itau.com.br%2F&psig=AOvVaw2xtxa1i0CyZH8kTNOOfn5W&ust=1599017677450000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjQkpeDx-sCFQAAAAAdAAAAABAJ" width="400" />
+<img alt="CaseItau" src="https://isncdn.site/2019/07/Itau.jpg" width="400" />
 </p>
 
 Used technologies in the project:
